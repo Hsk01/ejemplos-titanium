@@ -1,0 +1,1 @@
+/Users/arturo/Documents/Titanium Studio Workspace/Clase 3/Resources/ui/handheld/ApplicationWindow.js
